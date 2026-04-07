@@ -1,0 +1,32 @@
+name: GitHub Snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch: 
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: Generate GitHub Snake SVG
+        run: |
+          npm install -g @platane/snk
+          snk belsia-dev --theme dark --output output/github-snake-dark.svg
+
+      - name: Commit and Push Snake
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/github-snake-dark.svg
+          git commit -m "Update GitHub Snake" || echo "No changes to commit"
+          git push
