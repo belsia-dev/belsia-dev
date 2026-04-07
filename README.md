@@ -130,11 +130,11 @@ struct Developer {
 
 <br/>
 
-[![Discord](https://img.shields.io/badge/Discord-belsia__dev-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
+[![Discord](https://img.shields.io/badge/Discord-belsia__dev-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/sia.dev)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-belsia--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/belsia-dev)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin@sites3.kro.kr)
 
 <!-- Uncomment below if you have these -->
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE) -->
