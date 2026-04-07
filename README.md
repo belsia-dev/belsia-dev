@@ -1,126 +1,157 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=belsia-dev&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%7C%20Systems%20Developer&descAlignY=58&descSize=22&animation=fadeIn" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+fast+%26+scalable+systems+%E2%9A%A1;Python+%7C+Java+%7C+TypeScript+%7C+Node.js+%7C+Swift;Open+to+collabs+%F0%9F%A4%9D)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 👾 About Me
-
-```python
-class Developer:
-    name      = "belsia-dev"
-    languages = ["Python", "Java", "TypeScript", "Node.js", "Swift"]
-    focus     = ["Systems Programming", "Backend APIs", "Open Source"]
-    currently = "Building TitanMC ⚔️ — a multithreaded Minecraft server runner"
-    fun_fact  = "I optimize code until my CPU whispers 'thank you'"
-```
-
-- 🔭 Currently working on **[TitanMC](https://github.com/belsia-dev/TitanMC)** — a futuristic, multithreaded Minecraft server engine
-- 🌱 Always exploring **low-level performance optimizations** and **distributed systems**
-- 💡 Lover of clean architecture, fast runtimes, and beautifully structured code
-- ⚡ Ask me about: **Python bots, Java/JVM tuning, TypeScript APIs, Swift apps**
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org/)
-
-### Runtime & Tools
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=belsia-dev&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=A78BFA&icon_color=A78BFA&text_color=e2e8f0&rank_icon=github" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belsia-dev&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=A78BFA&text_color=e2e8f0&langs_count=6" height="170"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:1a0533,60:2d1b69,100:0a0a0f&height=280&section=header&text=belsia-dev&fontSize=90&fontColor=ffffff&fontAlignY=45&desc=⚡%20Systems%20%26%20Full-Stack%20Developer&descAlignY=63&descSize=20&animation=fadeIn&stroke=7C3AED&strokeWidth=2" width="100%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=belsia-dev&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="500"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&height=45&lines=Python+%E2%80%A2+Java+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Swift;Building+high-performance+systems+from+scratch+%E2%9A%A1;Turning+coffee+%E2%98%95+into+clean%2C+fast+code+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<br/><br/>
+<br/>
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=belsia-dev&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/belsia-dev">
+  <img src="https://komarev.com/ghpvc/?username=belsia-dev&style=flat-square&color=7C3AED&label=👁️+Profile+Views" alt="profile views"/>
+</a>
+&nbsp;
+<a href="https://github.com/belsia-dev?tab=followers">
+  <img src="https://img.shields.io/github/followers/belsia-dev?style=flat-square&color=7C3AED&label=Followers&logo=github&logoColor=white" alt="followers"/>
+</a>
+&nbsp;
+<a href="https://github.com/belsia-dev?tab=stars">
+  <img src="https://img.shields.io/github/stars/belsia-dev?style=flat-square&color=7C3AED&label=Stars&logo=github&logoColor=white" alt="stars"/>
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=belsia-dev&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=A78BFA&icon_color=A78BFA&text_color=c4b5fd&rank_icon=github&include_all_commits=true&count_private=true" />
+
+### 👾 &nbsp;Who am I?
+
+```swift
+struct Developer {
+  let name    = "belsia-dev"
+  let stack   = ["Python", "Java", "TypeScript",
+                 "Node.js", "Swift"]
+  let crafts  = ["APIs", "Systems", "CLI Tools",
+                 "iOS Apps", "Servers"]
+  let mindset = "Performance-first. Always."
+  let status  = "Building TitanMC ⚔️"
+}
+```
+
+- 🔭 &nbsp;Pouring hours into **[TitanMC](https://github.com/belsia-dev/TitanMC)** — a next-gen multithreaded Minecraft server engine
+- 🧠 &nbsp;Deep into **concurrent systems**, **JVM internals** & **low-latency design**
+- 💬 &nbsp;Ask me anything about **Python**, **TypeScript APIs**, or **Swift**
+- ⚡ &nbsp;Fun fact: I benchmark before I brag
+
+<br clear="right"/>
+
+---
+
+## 🛠️ &nbsp;Tech Arsenal
+
+<div align="center">
+
+| 🧩 Languages | ⚙️ Runtime & Infra | 🧰 Tools |
+|:---:|:---:|:---:|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+
+<br/>
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Swift](https://img.shields.io/badge/-Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 &nbsp;GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=belsia-dev&bg_color=0d0d1a&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=belsia-dev&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=c4b5fd&dates=6b7280&sideNums=A78BFA&currStreakNum=ffffff" width="480"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belsia-dev&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=A78BFA&text_color=c4b5fd&langs_count=6" width="320"/>
+
+<br/><br/>
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=belsia-dev&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🐍 &nbsp;Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=belsia-dev&bg_color=0d0d1a&color=A78BFA&line=7C3AED&point=ffffff&area_color=2d1b69&area=true&hide_border=true&custom_title=belsia-dev's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/belsia-dev/belsia-dev/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/belsia-dev/belsia-dev/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/belsia-dev/belsia-dev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/belsia-dev/belsia-dev/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/belsia-dev/belsia-dev/output/github-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/belsia-dev/belsia-dev/output/github-snake-dark.svg"/>
 </picture>
 
 </div>
 
 ---
 
-## ⚔️ Featured Project
+## ⚔️ &nbsp;Featured Project
 
 <div align="center">
 
-[![TitanMC](https://github-readme-stats.vercel.app/api/pin/?username=belsia-dev&repo=TitanMC&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=A78BFA&icon_color=A78BFA&text_color=e2e8f0)](https://github.com/belsia-dev/TitanMC)
+<a href="https://github.com/belsia-dev/TitanMC">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=belsia-dev&repo=TitanMC&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=A78BFA&icon_color=A78BFA&text_color=c4b5fd&description_lines_count=3" />
+</a>
 
 </div>
-
-> **TitanMC** — A futuristic Minecraft server runner engineered for raw speed. True multithreading support with dramatically reduced lag. Because 20 TPS is a standard, not a ceiling.
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/belsia-dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
-
-<!-- Optional: Add LinkedIn, Twitter/X, or personal site below -->
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE) -->
-<!-- [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_HANDLE) -->
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=belsia-dev&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)](https://github.com/belsia-dev)
-
-</div>
+> 🏗️ &nbsp;**TitanMC** is a performance-first Minecraft server runner built from the ground up with **true multithreading** support and architecture designed to slash lag. Where vanilla servers struggle, Titan thrives. `20 TPS is the floor, not the ceiling.`
 
 ---
 
+## 💬 &nbsp;Find Me Online
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<br/>
 
-*"The best code is the one that doesn't need to be explained — it explains itself."*
+[![Discord](https://img.shields.io/badge/Discord-belsia__dev-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-belsia--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/belsia-dev)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
 
+<!-- Uncomment below if you have these -->
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE) -->
+<!-- [![X / Twitter](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_HANDLE) -->
+
+<br/>
+
+---
+
+### 💡 &nbsp;Random Dev Quote
+
+[![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,40:2d1b69,80:1a0533,100:0a0a0f&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=c4b5fd&fontAlignY=65&animation=twinkling" width="100%"/>
 </div>
