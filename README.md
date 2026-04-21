@@ -112,15 +112,15 @@ struct Developer {
 
 <div align="center">
 
-<a href="https://github.com/belsia-dev/TitanMC">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=belsia-dev&repo=TitanMC&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=A78BFA&icon_color=A78BFA&text_color=c4b5fd&description_lines_count=3" />
+<a href="https://github.com/belsia-dev/Self-DNS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=belsia-dev&repo=Self-DNS&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=A78BFA&icon_color=A78BFA&text_color=c4b5fd&description_lines_count=3" />
 </a>
 
 </div>
 
 <br/>
 
-> 🏗️ &nbsp;**TitanMC** is a performance-first Minecraft server runner built from the ground up with **true multithreading** support and architecture designed to slash lag. Where vanilla servers struggle, Titan thrives. `20 TPS is the floor, not the ceiling.`
+> 🏗️ &nbsp;**Self-DNS** Comming Soon.. `Fast Secure DNS.`
 
 ---
 
