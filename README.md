@@ -34,18 +34,13 @@
 struct Developer {
   let name    = "belsia-dev"
   let stack   = ["Python", "Java", "TypeScript",
-                 "Node.js", "Swift"]
+                 "Node.js", "Swift", "And More"]
   let crafts  = ["APIs", "Systems", "CLI Tools",
                  "iOS Apps", "Servers"]
   let mindset = "Performance-first. Always."
-  let status  = "Building TitanMC ⚔️"
+  let status  = "Building Self-DNS 🌍"
 }
 ```
-
-- 🔭 &nbsp;Pouring hours into **[TitanMC](https://github.com/belsia-dev/TitanMC)** — a next-gen multithreaded Minecraft server engine
-- 🧠 &nbsp;Deep into **concurrent systems**, **JVM internals** & **low-latency design**
-- 💬 &nbsp;Ask me anything about **Python**, **TypeScript APIs**, or **Swift**
-- ⚡ &nbsp;Fun fact: I benchmark before I brag
 
 <br clear="right"/>
 
@@ -57,7 +52,7 @@ struct Developer {
 
 | 🧩 Languages | ⚙️ Runtime & Infra | 🧰 Tools |
 |:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![Go](https://img.shields.io/badge/Go-lang?style=flat-square&logo=go&logoColor=white)| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
 <br/>
 
@@ -67,6 +62,7 @@ struct Developer {
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Swift](https://img.shields.io/badge/-Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-lang?style=flat-square&logo=go&logoColor=white)
 
 </div>
 
